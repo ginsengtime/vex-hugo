@@ -53,7 +53,7 @@ about_product:
   enable: true
   title: Why New Suns?
   items:
-  - image: "'images/unk soc.png'"
+  - image: images/unk soc.png
     title: Diverse authors, diverse literature.
     content: In a world where all of human knowledge is available online, the only
       true exploration left lies in the discovery of new perspectives. We search across
@@ -64,7 +64,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: "'images/box nov.png'"
+  - image: images/box nov.png
     title: Unique creations in every box.
     content: Every box comes with two or three creations by creators of color and
       queer creators. From art prints and stickers to custom-blended tea, we offer
@@ -77,16 +77,16 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  placeholder: E-mail Address
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
