@@ -53,7 +53,7 @@ about_product:
   enable: true
   title: Why New Suns?
   items:
-  - image: "'images/unk soc.jpg'"
+  - image: "'images/unk soc.png'"
     title: Diverse authors, diverse literature.
     content: In a world where all of human knowledge is available online, the only
       true exploration left lies in the discovery of new perspectives. We search across
