@@ -221,7 +221,7 @@ a:active {
 /* navigation */
 .navbar {
   &-brand {
-    color: #ddd;
+    color: #eee;
     font-size: 25px;
     margin: 0;
     line-height: 1;
@@ -235,7 +235,7 @@ a:active {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #ddd;
+  color: #eee;
 }
 
 .lang-list {
@@ -249,6 +249,7 @@ a:active {
 /* cart */
 .cart {
   background: transparent;
+  color: #eee;
   border: 0;
   position: relative;
   i{
