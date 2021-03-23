@@ -10,7 +10,7 @@ sections:
   path: exampleSite/data/en/homepage.yml
   label: Homepage
 - type: directory
-  path: content
+  path: exampleSite/content/en
   label: Content
   create: all
   match: "**/*"
