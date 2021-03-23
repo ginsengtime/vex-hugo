@@ -1,10 +1,10 @@
-baseurl = "http://examplesite.com/"
+baseurl = "http://newsuns.neocities.org"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
-theme = "vex-hugo"
-title = "Vex | hugo landing page template"
-publishDir="../.."
+theme = "newsuns-newsite"
+title = "New Suns"
+publishDir="../../local-build"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
