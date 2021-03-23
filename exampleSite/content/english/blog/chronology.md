@@ -1,7 +1,7 @@
 ---
 title: "Book Review: Zahra Patterson's 'Chronology'"
 date: 2020-10-06T11:22:16+06:00
-image: "images/blog/2020 10/chron review header.jpg"
+image: "images/blog/2020 10/chron rvw header.jpg"
 description : "this is a meta description"
 draft: false
 ---
