@@ -2,7 +2,7 @@
 title: 'Book Review: Zahra Patterson''s _Chronology_'
 author: Renn
 date: 2020-10-06T11:22:16.000+06:00
-image: images/blog/2020 10/Chronology soc.jpg
+image: 'images/blog/2020 10/Chronology soc.png'
 description: this is a meta description
 
 ---
