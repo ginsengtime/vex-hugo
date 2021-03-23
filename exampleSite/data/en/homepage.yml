@@ -42,7 +42,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
-  enable: true
+  enable: false
   image: images/watch.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
@@ -51,22 +51,27 @@ promo:
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Why New Suns?
   items:
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: images/unk3.jpg
+    title: Diverse authors, diverse literature.
+    content: In a world where all of human knowledge is available online, the only
+      true exploration left lies in the discovery of new perspectives. We search across
+      genres, formats, and languages for these new perspectives, and bring them right
+      to your doorstep every month. These are your endless horizons. These are your
+      new suns.
     button:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: images/box-nov.png
+    title: Unique creations in every box.
+    content: Every box comes with two or three creations by creators of color and
+      queer creators. From art prints and stickers to custom-blended tea, we offer
+      a wide array of things to enrich your life while helping to uplift underrepresented
+      voices. We partner with independent creators and provide an equitable platform
+      for their visions. Support us, support them, support a more beautiful and inclusive
+      world.
     button:
       enable: false
       label: Check Features
