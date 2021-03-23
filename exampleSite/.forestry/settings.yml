@@ -5,7 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Layouts
+  label: Layout Stuff
+- type: directory
+  path: assets
+  label: Assets
+  create: all
+  match: "**/*"
 - type: directory
   path: layouts
   label: Layouts
