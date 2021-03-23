@@ -1,5 +1,6 @@
 ---
 title: "Book Review: Harmony Holiday's 'A Jazz Funeral for Uncle Tom'"
+author: "Gina"
 date: 2020-10-10T11:22:16+06:00
 image: "images/blog/2020 10/jazz soc.jpg"
 description : "this is a meta description"
