@@ -9,15 +9,9 @@ sections:
 - type: document
   path: data/en/homepage.yml
   label: Homepage
-  match: "**/*"
 - type: directory
   path: content
   label: Content
-  create: all
-  match: "**/*"
-- type: directory
-  path: images
-  label: Images
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/images
