@@ -7,9 +7,9 @@ sections:
 - type: heading
   label: Layout Stuff
 - type: directory
-  path: assets
+  path: assets/scss
   label: Assets
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: layouts
