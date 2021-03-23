@@ -6,6 +6,9 @@ webhook_url:
 sections:
 - type: heading
   label: Content
+- type: document
+  path: exampleSite/data/en/homepage.yml
+  label: Homepage
 - type: directory
   path: exampleSite/content/english/products
   label: Products
@@ -14,11 +17,8 @@ sections:
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact
-  create: all
+  create: documents
   match: "**/*"
-- type: document
-  path: exampleSite/data/en/homepage.yml
-  label: Homepage
 - type: directory
   path: exampleSite/content/english/blog
   label: Blog
