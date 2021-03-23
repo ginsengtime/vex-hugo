@@ -12,7 +12,7 @@ banner:
     label: About
     link: bio
 features:
-  enable: true
+  enable: false
   title: Our Core Features
   image: images/watch-2.png
   left_side:
