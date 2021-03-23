@@ -1,5 +1,5 @@
 ---
-title: 'Book Review: Zahra Patterson's "Chronology"'
+title: "Book Review: Zahra Patterson's 'Chronology'"
 date: 2029-10-06T11:22:16+06:00
 image: "images/blog/2020 10/chron review header.jpg"
 description : "this is a meta description"
