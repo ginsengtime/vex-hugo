@@ -10,7 +10,7 @@
       </div>
       <div class="col-lg-6 col-md-7 offset-lg-1">
         <h1>{{.Title | markdownify}}</h1>
-        <h4 class="mb-4">{{ with .auth }}{{ . }}{{ end }}</h4>
+        <h4 class="mb-4">{{ with .Auth }}{{ . }}{{ end }}</h4>
         <div class="content">
           {{.Content}}
         </div>
