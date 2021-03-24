@@ -5,19 +5,28 @@
 <section class="call-to-action section bg-opacity" style="background-image: url('{{ .bg_image | absURL }}');">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 col-md-8 text-center mx-auto">
+      <div class="col-lg-7 col-md-8 text-center mx-auto">
         <h2 class="subheading text-white">{{ .title | markdownify }}</h2>
         <p class="text-white">{{ .content | markdownify }}</p>
-        <div class="input-group">
-          <form action="{{ site.Params.subscription.mailchimp_form_action }}" method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
-            <input type="email" id="email" class="form-control" name="email" placeholder="{{ .placeholder }}"
-              required>
-            <button class="btn btn-main btn-submit" type="submit" name="subscribe">{{i18n "subscribe"}}</button>
-            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-              <input type="text" name="{{ site.Params.subscription.mailchimp_form_name }}" tabindex="-1">
-            </div>
-          </form>
-        </div><!-- /input-group -->
+        
+       <form method="post" action="https://newsuns.hosted.phplist.com/lists/?p=subscribe&id=1" name="subscribeform"><input type="hidden" name="formtoken" value="538b4987fc5c84d942ab0350e1eeee57" />
+        
+        <input type=text name=email class="form-control" required="required" placeholder="{{ .placeholder }}" size="40" id="email" />
+        <script language="Javascript" type="text/javascript">addFieldToCheck("email", "Email address");</script>
+        
+        <p style="color:#ccc;margin-top:1em">Please select the newsletters you want to sign up to:</p>
+        <div class="accordion allexpanded">
+          <div style="display:flex;color:#ccc;font-size:14px">
+            <div style="flex:1"><input type="checkbox" name="list[3]" value="signup" /><b>lit-newsletter</b>
+              <div class="listdescription">Receive the monthly literary newsletter.</div></div>
+              <div style="flex:1"><input type="checkbox" name="list[4]" value="signup" /><b>Updates</b>
+                <div class="listdescription">Receive updates on the box.</div>
+              </div>
+          </div>
+        </div>
+        <div style="display:none"><input type="text" name="VerificationCodeX" value="" size="20"></div><input type=submit class="button btn btn-main btn-submit" name="subscribe" value="Subscribe to the selected lists" style="margin-top: 1em;"
+          onClick="return checkform();"></form>
+        
       </div>
     </div>
   </div>

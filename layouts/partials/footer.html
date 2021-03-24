@@ -4,7 +4,14 @@
       <div class="col-md-12">
         <div class="block">
           <a href="{{ site.BaseURL | relLangURL }}" class="mb-4 d-inline-block">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} {{ .Title }} {{ end }}</a>
-          <ul class="list-inline footer-menu">
+          <ul class="list-inline footer-menu" style="font-size: 32px;">
+            <li class="list-inline-item"><a href="https://facebook.com/newsunsbox"><ion-icon name="logo-facebook" style="margin:.2em"></ion-icon></a></li>
+            <li class="list-inline-item"><a href="https://twitter.com/newsunsbox"><ion-icon name="logo-twitter" style="margin:.2em"></ion-icon></a></li>
+            <li class="list-inline-item"><a href="https://instagram.com/newsunsbox"><ion-icon name="logo-instagram" style="margin:.2em"></ion-icon></a></li>
+            <li class="list-inline-item"><a href="https://tiktok.com/@newsunsbox"><ion-icon name="logo-tiktok" style="margin:.2em"></ion-icon></a>
+            </li>
+          </ul>
+          <ul class="list-inline footer-menu" style="margin-top: 1em;">
             {{ range site.Menus.footer }}
             <li class="list-inline-item">
               <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
@@ -18,6 +25,8 @@
   </div>
 </footer>
 
+<!-- Ionicons -->
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 
 <!-- Snipcart public key -->
 {{with site.Params.snipcart_api}}<div hidden id="snipcart" data-api-key="{{.}}"></div>{{end}}

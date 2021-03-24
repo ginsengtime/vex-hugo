@@ -3,10 +3,19 @@
 {{- partial "head.html" . -}}
 
 <body id="body">
-	{{- partial "preloader.html" . -}}
-	{{- partial "header.html" . -}}
-	{{- block "main" . }}{{- end }}
-	{{- partial "footer.html" . -}}
+  {{- partial "preloader.html" . -}}
+  {{- partial "header.html" . -}}
+  {{- block "main" . }}{{- end }}
+  {{- partial "footer.html" . -}}
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+  <script>
+    kofiWidgetOverlay.draw('newsunsbox', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Tip Us',
+      'floating-chat.donateButton.background-color': '#fcd404',
+      'floating-chat.donateButton.text-color': '#323842'
+    });
+  </script>
 </body>
 
 </html>

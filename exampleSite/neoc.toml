@@ -1,10 +1,13 @@
 baseurl = "http://newsuns.neocities.org"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
+paginate = 4
 theme = "newsuns-newsite"
 title = "New Suns"
 publishDir="../../local-build"
+[taxonomies]
+tag = "tags"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -22,19 +25,15 @@ unsafe = true
 [[menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy"
-weight = 4
+weight = 3
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
-weight = 3
-[[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
-[[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
+weight = 4
+[[menu.main]]
+name = "Login"
+url = "https://www.subbly.co/account/auth/login?store=new-suns"
+weight = 5
 [[menu.main]]
 name = "Contact"
 url = "contact"
@@ -44,8 +43,8 @@ name = "Blog"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Products"
-url = "products"
+name = "Subscribe"
+url = "products/subscription-box"
 weight = 2
 [[menu.main]]
 name = "Home"
@@ -53,11 +52,11 @@ url = "/"
 weight = 1
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://forms.un-static.com/forms/408b3c21f8322e3f546870b14f96baaf44a7d970"
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "130px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
@@ -67,19 +66,15 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-[[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
 enable = true
 preloader = ""
 [params.subscription]
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://newsunsbox.us10.list-manage.com/subscribe/post?u=c80951c35483ed043bb9e9492&amp;id=fe3afb88ef"
+mailchimp_form_name = "b_c80951c35483ed043bb9e9492_fe3afb88ef"

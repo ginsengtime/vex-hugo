@@ -2,8 +2,8 @@ baseurl = "http://examplesite.com/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
-theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+theme = "newsuns-newsite"
+title = "New Suns Box"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"

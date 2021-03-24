@@ -82,8 +82,8 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  title: Get Updates
+  content: Sign up to receive updates on the box such as featured authors and artists, limited time discounts, and more. We also have a monthly newsletter with on upcoming and new releases, as well as interesting events and other literary resources.
   placeholder: E-mail Address
 testimonial:
   enable: false
