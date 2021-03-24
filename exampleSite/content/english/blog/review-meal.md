@@ -4,7 +4,7 @@ author: Renn
 date: 2020-12-10T11:22:16.000+06:00
 image: 'images/blog/202012/meal.jpg'
 summary: 'A black-and-white graphic novel with a sweet, wholesome queer romance, _Meal_ is a friendly introduction to entomophagy as both a millennia-old source of protein and an integral part of the cuisine of many different cultures.'
-tags: ['review','december 2020']
+tags: ['review','december-2020','graphic-novel']
 description: this is a meta description
 ---
 

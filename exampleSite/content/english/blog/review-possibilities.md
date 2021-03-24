@@ -4,7 +4,7 @@ author: Renn
 date: 2020-12-09T11:22:16.000+06:00
 image: 'images/blog/202012/possibilites.gif'
 summary: ' Chen Chen’s debut collection is an ode to the many complicated relationships of a young, gay, first-generation Chinese immigrant to America: with his family, with his culture, with his country, with himself.'
-tags: ['review','december 2020','poetry']
+tags: ['review','december-2020','poetry']
 description: this is a meta description
 ---
 

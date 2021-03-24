@@ -3,7 +3,7 @@ title: 'Book Review: Zahra Patterson''s _Chronology_'
 author: Renn
 date: 2020-10-06T11:22:16.000+06:00
 image: 'images/blog/202010/Chronology.png'
-tags: ['review','october 2020','poetry']
+tags: ['review','october-2020','poetry']
 summary: ' Through the lens of attempting to translate a Sesotho short story into English, Patterson explores themes of colonialism, feminism, the politics of translation, and language as a form of intimacy. '
 description: this is a meta description
 

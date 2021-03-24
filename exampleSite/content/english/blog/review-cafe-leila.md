@@ -4,7 +4,7 @@ author: Gina
 date: 2020-12-11T11:22:16.000+06:00
 image: 'images/blog/202012/leila.jpg'
 summary: 'From the Bolshevik regime to the post-revolution turmoil of the 1980s, the turbulence of the twentieth century serves as the backdrop for Donia Bijan’s sweeping tapestry of family, change, and homecoming, held together by food.'
-tags: ['review','december 2020','novel']
+tags: ['review','december-2020','novel']
 description: this is a meta description
 ---
 

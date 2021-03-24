@@ -4,7 +4,7 @@ author: Gina
 date: 2020-11-09T14:22:16.000+06:00
 image: 'images/blog/202011/grass.jpg'
 summary: 'Dina Gilio-Whitaker paints broad strokes exploring an Indigenous-centered history of environmental (in)justice in North America, from the coordinated uprooting of First Nations people from their ancestral lands to modern environmental efforts like Standing Rock.'
-tags: ['review','november 2020','nonfiction']
+tags: ['review','november-2020','nonfiction']
 description: this is a meta description
 ---
 

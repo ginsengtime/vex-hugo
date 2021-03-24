@@ -4,7 +4,7 @@ author: Gina
 date: 2020-11-07T11:22:16.000+06:00
 image: 'images/blog/202011/moon.jpg'
 summary: 'For a people who have lost everything time and time again, this is just another chance to adapt, and this time, maybe reclaim the land stolen from them so long ago.'
-tags: ['review','november 2020','novel']
+tags: ['review','november-2020','novel']
 description: this is a meta description
 
 ---

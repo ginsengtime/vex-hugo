@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Data.Pages }}
+{{ $paginator := .Paginate .Data.Pages }}
 
 <section class="feature-list section">
   <div class="container">

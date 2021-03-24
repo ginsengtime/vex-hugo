@@ -4,7 +4,7 @@ author: Renn
 date: 2020-10-09T11:22:16.000+06:00
 image: 'images/blog/202010/loss.png'
 summary: 'True to its title, _The Loss of All Lost Things_ is a collection of short stories about various losses: of youth, of hope, of love, of relationships, of culture, of self. '
-tags: ['review','october 2020','short stories']
+tags: ['review','october-2020','short stories']
 description: this is a meta description
 
 ---

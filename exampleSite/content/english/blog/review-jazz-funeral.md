@@ -5,7 +5,7 @@ date: 2020-10-10T11:22:16+06:00
 image: "images/blog/202010/jazz.jpg"
 description : "this is a meta description"
 summary: 'The poems themselves are dripping with images, with winding, wending sentences that pivot on certain words to twirl around fear, love, hate, and loss. Holiday wheels from Jim Crow to Justin Bieber, drawing from centuries of Black experience for her lyric and prose fragments. '
-tags: ['review','october 2020','poetry']
+tags: ['review','october-2020','poetry']
 draft: false
 ---
 First of all, I read this book along while listening to the live improvisational reading, available on Bandcamp here. I think it’s absolutely possible to enjoy this collection without it — there are a few poems in the book that weren’t in the reading — but Harmony Holiday’s low, steady reading and the improvisational jazz accompaniment enhanced the experience for me. (There’s also a soundtrack for it on Spotify [here](https://open.spotify.com/playlist/5D5thIa9uOFTZMkI3ZYMnM).) 

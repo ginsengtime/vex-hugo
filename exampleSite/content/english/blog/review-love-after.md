@@ -4,7 +4,7 @@ author: Renn
 date: 2020-11-07T12:22:16.000+06:00
 image: 'images/blog/202011/love.png'
 summary: 'Every single one of these stories offers hope as a form of resistance against everything terrible that was, is, and could be. '
-tags: ['review','november 2020','anthology']
+tags: ['review','november-2020','anthology']
 description: this is a meta description
 
 ---

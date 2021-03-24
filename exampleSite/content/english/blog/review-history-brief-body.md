@@ -4,7 +4,7 @@ author: Renn
 date: 2020-11-11T11:22:16.000+06:00
 image: 'images/blog/202011/brief.png'
 summary: ' Part-essay, part-prose poem, _A History of My Brief Body_ remakes the form of the memoir, just as Billy-Ray Belcourt unmakes and remakes himself in these pages. '
-tags: ['review','november 2020','poetry']
+tags: ['review','november-2020','poetry']
 description: this is a meta description
 
 ---

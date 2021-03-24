@@ -4,7 +4,7 @@ author: Renn
 date: 2020-12-08T11:22:16.000+06:00
 image: 'images/blog/202012/fireonhigh.jpg'
 summary: ' Packed full of seasoning—both literally and metaphorically—_With the Fire on High_ is a hearty tale of love, family, friendship, and food. '
-tags: ['review','december 2020','YA']
+tags: ['review','december-2020','YA']
 description: this is a meta description
 ---
 This book starts off with an aromatic sizzle and builds to a full flambé, and, if you think that sounds appetizing, just wait till you read the descriptions of Emoni’s dishes. Packed full of seasoning—both literally and metaphorically (nearly all the characters are Black and/or Latinx)—_  _ is a hearty tale of love, family, friendship, and food.

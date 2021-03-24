@@ -4,7 +4,7 @@ author: Renn
 date: 2020-11-09T13:22:16.000+06:00
 image: 'images/blog/202011/postcolonial.png'
 summary: 'These poems contain a violence that refuses to be healed from, a violence of knives and scorpions and bullets whose sting is transformed to light and tenderness under Natalie Diaz’s deft hands. '
-tags: ['review','november 2020','poetry']
+tags: ['review','november-2020','poetry']
 description: this is a meta description
 ---
 Where to begin with _Postcolonial Love Poem_? This collection is a fluid journey of hips under hands, basketballs through hoops, green to red, light on darkness. These poems contain a violence that refuses to be healed from, a violence of knives and scorpions and bullets whose sting is transformed to light and tenderness under Natalie Diaz’s deft hands. And by god, there are so many hands in these poems. Hands of light and hands turned guns, hands crushed and hands holding, hands as worship and desire. Hands as kingdom and hands as a means of entering the Kingdom of her hips.

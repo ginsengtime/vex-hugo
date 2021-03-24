@@ -4,7 +4,7 @@ author: Gina
 date: 2020-12-07T11:22:16.000+06:00
 image: 'images/blog/202012/buttermilk.jpg'
 summary: ' The meeting of personal and public, of staunch tradition and absolute rejection thereof — that is where Lee places himself in _Buttermilk Graffiti_, questioning his position within the food landscape not simply as patron or chef, but as one whose own background reflects the melting pot of American cuisine.'
-tags: ['review','december 2020','nonfiction']
+tags: ['review','december-2020','nonfiction']
 description: this is a meta description
 ---
 
