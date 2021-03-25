@@ -20,10 +20,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.nav-link:hover, .cart a:hover {
+.navbar-nav .nav-link:hover, .cart a:hover {
   color: #fcd404 !important;
   text-decoration: none !important;
 }
+
 
 // tags babbyyyyy
 .tags{

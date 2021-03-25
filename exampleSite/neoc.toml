@@ -1,4 +1,4 @@
-baseurl = "http://newsuns.neocities.org"
+baseurl = "http://newsunsbox.com"
 disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
@@ -35,7 +35,7 @@ name = "Login"
 url = "https://www.subbly.co/account/auth/login?store=new-suns"
 weight = 5
 [[menu.main]]
-name = "Contact"
+name = "FAQ + Contact"
 url = "contact"
 weight = 4
 [[menu.main]]
